@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 # === НАСТРОЙКИ ===
 TOKEN = "8284745407:AAFqGY7YtN4-pWe-75yEUor1o1cWcsrKG8w"  # примерный токен
 DATA_FILE = "data.json"
-UP_WORDS = ["+", "ап", "двачую", "согласен", "поддерживаю", "бамп"]
+UP_WORDS = ["+", "ап", "двачую", "согласен", "поддерживаю", "бамп", "бамп!"]
 DOWN_WORDS = ["сажа"]
 
 # === ХРАНЕНИЕ ДАННЫХ ===
